@@ -50,7 +50,7 @@ I'm currently working toward completing my **CIS degree at JCTC** while building
 
  Fun Fact
 
-I enjoy grilling and cooking — building recipes is a lot like building code 🍖🔥
+I enjoy grilling and cooking — building recipes is a lot like building code 
 
 ---
 
