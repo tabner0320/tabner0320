@@ -2,7 +2,7 @@
 
  About Me
 
-I'm currently working toward completing my **CIS degree at JCTC** while building hands-on experience in software development.
+I'm currently working toward completing my **CIT degree at JCTC** while building hands-on experience in software development.
 
 *  Completed the **Code:You Web Development course**
 *  Currently enrolled in the **Code:You Software Development (C#) program**
