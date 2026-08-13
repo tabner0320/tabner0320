@@ -1,7 +1,7 @@
 # Hi, I'm Theo 
 ### Theophilus M. Abner Jr.
 
-Aspiring **Software Developer and IT Professional** focused on building practical applications with **C#, .NET, ASP.NET Core, JavaScript, and cloud technologies**.
+Software Development and IT professional focused on building practical applications with **C#, .NET, ASP.NET Core, JavaScript, and cloud technologies**.
 
 I'm currently completing my **CIT degree at JCTC** while continuing to develop hands-on experience through full-stack applications, REST APIs, automated testing, and technical projects.
 
@@ -68,6 +68,20 @@ I'm currently completing my **CIT degree at JCTC** while continuing to develop h
 ---
 
 ## Featured Projects
+
+### Earthly Kiss
+
+Full-stack natural wellness application built with **C#, .NET 10, ASP.NET Core, JavaScript, HTML, and CSS**.
+
+Users can search for natural remedies by symptom through a JavaScript front end connected to an **ASP.NET Core REST API**. The backend uses **dependency injection, service-based architecture, models, endpoint mapping, JSON serialization, CORS, and automated testing**.
+
+**Skills demonstrated:**
+
+`C#` `.NET 10` `ASP.NET Core` `Minimal APIs` `JavaScript` `REST APIs` `Dependency Injection` `Fetch API` `JSON` `CORS` `xUnit` `HTML5` `CSS3` `Git`
+
+[View Earthly Kiss](https://github.com/tabner0320/Earthly-Kiss)
+
+---
 
 ### Sweet Cups by Nae
 
