@@ -1,9 +1,12 @@
 # Hi, I'm Theo 
+
 ### Theophilus M. Abner Jr.
 
-Software Development and IT professional focused on building practical applications with **C#, .NET, ASP.NET Core, JavaScript, and cloud technologies**.
+**Software Development & IT Professional | C# • .NET • ASP.NET Core • Cloud**
 
-I'm currently completing my **CIT degree at JCTC** while continuing to develop hands-on experience through full-stack applications, REST APIs, automated testing, and technical projects.
+I build practical software applications with a focus on **C#, .NET, ASP.NET Core, REST APIs, JavaScript, automated testing, and cloud technologies**.
+
+I'm currently completing my **CIT degree at Jefferson Community & Technical College (JCTC)** while continuing to strengthen my software development skills through hands-on projects involving full-stack development, API design, object-oriented programming, testing, and application architecture.
 
 ---
 
@@ -11,8 +14,8 @@ I'm currently completing my **CIT degree at JCTC** while continuing to develop h
 
 -  Pursuing a **CIT degree at Jefferson Community & Technical College (JCTC)**
 -  Completed the **Code:You Web Development program**
--  Continuing my software development training with a focus on **C# and .NET**
--  Retired **U.S. Army veteran** with extensive experience in instruction, leadership, documentation, and technical processes
+-  Continuing software development training with a focus on **C# and .NET**
+-  Retired **U.S. Army veteran** with extensive experience in leadership, instruction, documentation, troubleshooting, and technical processes
 -  Building knowledge in **Microsoft Azure and cloud technologies**
 -  Interested in **AI, automation, software engineering, and project management**
 -  Building portfolio projects that solve practical, real-world problems
@@ -23,57 +26,69 @@ I'm currently completing my **CIT degree at JCTC** while continuing to develop h
 
 ### Languages
 
-- C#
-- JavaScript
-- Python
-- HTML5
-- CSS3
+`C#` `JavaScript` `Python` `HTML5` `CSS3`
 
-### Frameworks & Development
+### .NET & Web Development
 
-- .NET
-- ASP.NET Core
-- ASP.NET Core Minimal APIs
-- Node.js
-- Express.js
+`.NET` `ASP.NET Core` `Razor Pages` `Minimal APIs` `Node.js` `Express.js`
 
-### APIs & Backend
+### APIs & Backend Development
 
-- REST APIs
-- API Development
-- API Integration
-- JSON
-- HTTP / HttpClient
-- JavaScript Fetch API
-- CRUD Operations
-- CORS
-- Asynchronous Programming
+`REST APIs` `API Development` `API Integration` `JSON` `HTTP` `HttpClient` `Fetch API` `CRUD` `CORS` `Asynchronous Programming`
+
+### Software Development
+
+`Object-Oriented Programming` `Dependency Injection` `Service-Based Architecture` `LINQ` `Collections` `Input Validation` `Multi-Project Solutions`
 
 ### Testing
 
-- xUnit
-- Integration Testing
-- WebApplicationFactory
-- API Testing
+`xUnit` `Unit Testing` `Integration Testing` `WebApplicationFactory` `API Testing`
 
-### Cloud & Tools
+### Cloud & Development Tools
 
-- Microsoft Azure
-- Git
-- GitHub
-- Visual Studio Code
-- Git Bash
-- .NET CLI
+`Microsoft Azure` `Git` `GitHub` `Visual Studio Code` `Git Bash` `.NET CLI`
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Earthly Kiss
+## SweetlyMade
 
-Full-stack natural wellness application built with **C#, .NET 10, ASP.NET Core, JavaScript, HTML, and CSS**.
+**C# & .NET Product and Order Management Application**
 
-Users can search for natural remedies by symptom through a JavaScript front end connected to an **ASP.NET Core REST API**. The backend uses **dependency injection, service-based architecture, models, endpoint mapping, JSON serialization, CORS, and automated testing**.
+SweetlyMade is a multi-project **C# and .NET application** for managing homemade jams, syrups, products, and customer orders.
+
+The solution is organized into separate **Core, Console, Web, and Tests projects**, demonstrating separation of concerns and reusable application architecture.
+
+### Highlights
+
+- Shared `.NET` class library containing business logic
+- `Product` and `Order` object-oriented models
+- Reusable `ProductService` and `OrderService` classes
+- Interactive console-based ordering system
+- ASP.NET Core Razor Pages web application
+- Product selection and quantity validation
+- Automatic order-total calculations
+- Automated testing with xUnit
+- Multi-project .NET solution architecture
+
+**Skills demonstrated:**
+
+`C#` `.NET 10` `ASP.NET Core` `Razor Pages` `OOP` `Class Libraries` `LINQ` `xUnit` `Unit Testing` `Git`
+
+[View SweetlyMade](https://github.com/tabner0320/SweetlyMade)
+
+---
+
+## Earthly Kiss
+
+**Full-Stack Natural Wellness Application**
+
+Earthly Kiss is a full-stack application built with **C#, .NET 10, ASP.NET Core, JavaScript, HTML, and CSS**.
+
+Users can search for natural remedies by symptom through a JavaScript front end connected to an **ASP.NET Core REST API**.
+
+The backend demonstrates **dependency injection, service-based architecture, models, endpoint mapping, JSON serialization, CORS, and automated testing**.
 
 **Skills demonstrated:**
 
@@ -83,23 +98,36 @@ Users can search for natural remedies by symptom through a JavaScript front end 
 
 ---
 
-### Sweet Cups by Nae
+## Sweet Cups by Nae
 
-Full-stack ordering application built with **C#, ASP.NET Core, JavaScript, HTML, and CSS**.
+**Full-Stack Ordering Application**
 
-Customers can browse cheesecake cups, add products to an interactive cart, calculate their order total, enter pickup information, and submit orders to an ASP.NET Core REST API.
+Sweet Cups by Nae is a full-stack ordering application built with **C#, ASP.NET Core, JavaScript, HTML, and CSS**.
+
+Customers can browse cheesecake cups, add products to an interactive cart, calculate their order total, enter pickup information, and submit orders through an ASP.NET Core backend.
+
+### Highlights
+
+- Interactive shopping cart
+- Dynamic order-total calculations
+- Customer pickup information
+- JavaScript front end
+- ASP.NET Core backend
+- JSON-based data communication
 
 **Skills demonstrated:**
 
-`C#` `ASP.NET Core` `JavaScript` `REST APIs` `JSON` `Fetch API` `HTML` `CSS` `Git`
+`C#` `ASP.NET Core` `JavaScript` `REST APIs` `JSON` `Fetch API` `HTML5` `CSS3` `Git`
 
-[View SweetCupsByNae](https://github.com/tabner0320/SweetCupsByNae)
+[View Sweet Cups by Nae](https://github.com/tabner0320/SweetCupsByNae)
 
 ---
 
-### Bryant's Son Home Improvement
+## Bryant's Son Home Improvement
 
-Full-stack home improvement application featuring service listings and a customer estimate-request system.
+**Full-Stack Home Improvement & Estimate Application**
+
+Bryant's Son Home Improvement is a full-stack application featuring service listings and a customer estimate-request system.
 
 Customers can select a service, complete an estimate form, and submit project information from the JavaScript front end to an **ASP.NET Core API**.
 
@@ -107,33 +135,47 @@ The project also demonstrates CRUD operations and automated API testing.
 
 **Skills demonstrated:**
 
-`C#` `ASP.NET Core` `JavaScript` `REST APIs` `CRUD` `xUnit` `Integration Testing` `HTML` `CSS`
+`C#` `ASP.NET Core` `JavaScript` `REST APIs` `CRUD` `xUnit` `Integration Testing` `HTML5` `CSS3`
 
-[View BryantsSonHomeImprovement](https://github.com/tabner0320/BryantsSonHomeImprovement)
+[View Bryant's Son Home Improvement](https://github.com/tabner0320/BryantsSonHomeImprovement)
 
 ---
 
-### Theo's Food Trailer Menu
+## Theo's Food Trailer Menu
 
-Full-stack food trailer menu application demonstrating **ASP.NET Core Minimal APIs, HttpClient, JavaScript, CRUD operations, and automated testing**.
+**ASP.NET Core Menu & Ordering Application**
+
+Theo's Food Trailer Menu demonstrates communication between .NET applications using **ASP.NET Core Minimal APIs and HttpClient**.
+
+The project includes RESTful endpoints, full CRUD operations, asynchronous programming, a console API client, JavaScript functionality, and automated testing.
+
+### Highlights
+
+- ASP.NET Core Minimal API
+- Full CRUD operations
+- Console application using `HttpClient`
+- Asynchronous programming with `async` and `await`
+- JavaScript menu functionality
+- xUnit integration testing
+- `WebApplicationFactory`
 
 **Skills demonstrated:**
 
-`C#` `.NET` `ASP.NET Core` `HttpClient` `JavaScript` `xUnit` `REST APIs` `CRUD`
+`C#` `.NET` `ASP.NET Core` `Minimal APIs` `HttpClient` `JavaScript` `xUnit` `REST APIs` `CRUD` `Async/Await`
 
 [View Food Trailer Menu](https://github.com/tabner0320/food-trailer-menu)
 
 ---
 
-## Currently Learning
+# Currently Learning
 
 I'm continuing to strengthen my skills in:
 
-- Advanced C# and .NET development
-- ASP.NET Core
-- REST API architecture
-- Database integration
+- Advanced **C# and .NET development**
+- ASP.NET Core application architecture
+- REST API design
 - Entity Framework Core
+- SQL and database integration
 - Microsoft Azure
 - Cloud application development
 - Automated testing
@@ -142,7 +184,7 @@ I'm continuing to strengthen my skills in:
 
 ---
 
-## Career Interests
+# Career Interests
 
 I'm interested in opportunities involving:
 
@@ -154,17 +196,17 @@ I'm interested in opportunities involving:
 - **Systems / DevOps**
 - **IT / Technical Support**
 
-My goal is to continue building real-world development experience while combining my technical skills with my background in leadership, instruction, troubleshooting, and problem solving.
+My goal is to continue building real-world software development experience while combining my technical skills with my background in **leadership, instruction, troubleshooting, documentation, and problem solving**.
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 - **GitHub:** [tabner0320](https://github.com/tabner0320)
-- **Portfolio:** Explore my repositories and projects here on GitHub
+- **Portfolio:** Explore my featured projects and repositories here on GitHub
 
 ---
 
 ## Fun Fact
 
-I enjoy grilling and cooking — building a recipe is a lot like building software: start with the right ingredients, follow a process, test the results, and keep improving. 
+I enjoy grilling and cooking — building a recipe is a lot like building software: start with the right ingredients, follow a process, test the results, and keep improving.
