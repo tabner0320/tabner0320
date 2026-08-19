@@ -14,6 +14,7 @@ I'm currently completing my **CIT degree at Jefferson Community & Technical Coll
 
 -  Pursuing a **CIT degree at Jefferson Community & Technical College (JCTC)**
 -  Completed the **Code:You Web Development program**
+-  Completed the **Code:You Software Development Program**
 -  Continuing software development training with a focus on **C# and .NET**
 -  Retired **U.S. Army veteran** with extensive experience in leadership, instruction, documentation, troubleshooting, and technical processes
 -  Building knowledge in **Microsoft Azure and cloud technologies**
