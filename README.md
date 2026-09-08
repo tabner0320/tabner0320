@@ -2,28 +2,28 @@
 
 ### Theophilus M. Abner Jr.
 
-**Software Development & IT Professional | C# • .NET • ASP.NET Core • Cloud**
+**Software Developer & IT Professional | C# • .NET • ASP.NET Core • REST APIs • Cloud**
 
 I build practical software applications with a focus on **C#, .NET, ASP.NET Core, REST APIs, JavaScript, automated testing, and cloud technologies**.
 
-I'm currently completing my **CIT degree at Jefferson Community & Technical College (JCTC)** while continuing to strengthen my software development skills through hands-on projects involving full-stack development, API design, object-oriented programming, testing, and application architecture.
+I'm currently completing my **CIT degree at Jefferson Community & Technical College (JCTC)** while continuing to expand my software development experience through hands-on projects involving **full-stack development, API design, object-oriented programming, automated testing, responsive web development, and application architecture**.
 
 ---
 
 ## About Me
 
--  Pursuing a **CIT degree at Jefferson Community & Technical College (JCTC)**
--  Completed the **Code:You Web Development program**
--  Completed the **Code:You Software Development Program**
--  Continuing software development training with a focus on **C# and .NET**
--  Retired **U.S. Army veteran** with extensive experience in leadership, instruction, documentation, troubleshooting, and technical processes
--  Building knowledge in **Microsoft Azure and cloud technologies**
--  Interested in **AI, automation, software engineering, and project management**
--  Building portfolio projects that solve practical, real-world problems
+- Pursuing a **CIT degree at Jefferson Community & Technical College (JCTC)**
+- Completed the **Code:You Web Development program**
+- Completed the **Code:You Software Development Program**
+- Building full-stack applications with **C#, .NET, ASP.NET Core, and JavaScript**
+- Retired **U.S. Army veteran** with extensive experience in leadership, instruction, documentation, troubleshooting, and technical processes
+- Building knowledge in **Microsoft Azure and cloud technologies**
+- Interested in **AI, automation, software engineering, and project management**
+- Building portfolio projects focused on solving practical, real-world problems
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -31,7 +31,7 @@ I'm currently completing my **CIT degree at Jefferson Community & Technical Coll
 
 ### .NET & Web Development
 
-`.NET` `ASP.NET Core` `Razor Pages` `Minimal APIs` `Node.js` `Express.js`
+`.NET` `.NET 10` `ASP.NET Core` `Razor Pages` `Minimal APIs` `Node.js` `Express.js`
 
 ### APIs & Backend Development
 
@@ -39,7 +39,7 @@ I'm currently completing my **CIT degree at Jefferson Community & Technical Coll
 
 ### Software Development
 
-`Object-Oriented Programming` `Dependency Injection` `Service-Based Architecture` `LINQ` `Collections` `Input Validation` `Multi-Project Solutions`
+`Object-Oriented Programming` `Dependency Injection` `Service-Layer Architecture` `LINQ` `Collections` `Input Validation` `Multi-Project Solutions`
 
 ### Testing
 
@@ -53,31 +53,86 @@ I'm currently completing my **CIT degree at Jefferson Community & Technical Coll
 
 # Featured Projects
 
-## SweetlyMade
+## PharmCalc Trainer
 
-**C# & .NET Product and Order Management Application**
+**Full-Stack Pharmaceutical Calculation Training Application**
 
-SweetlyMade is a multi-project **C# and .NET application** for managing homemade jams, syrups, products, and customer orders.
+PharmCalc Trainer is a full-stack educational web application built with **C#, .NET 10, ASP.NET Core Minimal APIs, JavaScript, HTML, and CSS**.
 
-The solution is organized into separate **Core, Console, Web, and Tests projects**, demonstrating separation of concerns and reusable application architecture.
+The application provides interactive pharmaceutical calculation practice while demonstrating communication between a JavaScript frontend and a C# ASP.NET Core backend.
 
-### Highlights
+### Features
 
-- Shared `.NET` class library containing business logic
-- `Product` and `Order` object-oriented models
-- Reusable `ProductService` and `OrderService` classes
-- Interactive console-based ordering system
-- ASP.NET Core Razor Pages web application
-- Product selection and quantity validation
-- Automatic order-total calculations
-- Automated testing with xUnit
-- Multi-project .NET solution architecture
+- Metric conversion exercises
+- Tablet dosage calculations
+- Liquid medication calculations
+- Interactive practice problems
+- Dosing-spoon measurement practice
+- Oral-syringe measurement practice
+- Medicine-cup measurement practice
+- Answer checking and solution display
+- Score and attempt tracking
+- Backend request validation
+- REST-style API endpoints
+- Responsive web interface
+- Automated unit and API integration testing
+
+### Architecture
+
+HTML / CSS → JavaScript → Fetch API → ASP.NET Core Minimal API → CalculationService → JSON → JavaScript UI
+
+### Testing
+
+The project includes automated testing with:
+
+- xUnit
+- Unit testing
+- API integration testing
+- WebApplicationFactory
 
 **Skills demonstrated:**
 
-`C#` `.NET 10` `ASP.NET Core` `Razor Pages` `OOP` `Class Libraries` `LINQ` `xUnit` `Unit Testing` `Git`
+`C#` `.NET 10` `ASP.NET Core` `Minimal APIs` `REST APIs` `JavaScript` `Fetch API` `JSON` `Dependency Injection` `Input Validation` `xUnit` `Integration Testing` `WebApplicationFactory` `HTML5` `CSS3` `Git`
 
-[View SweetlyMade](https://github.com/tabner0320/SweetlyMade)
+[View PharmCalc Trainer](https://github.com/tabner0320/PharmCalc-Trainer)
+
+> **Educational Use Only:** PharmCalc Trainer is intended for pharmaceutical calculation practice and education and is not intended for real-world patient-specific medication or dosing decisions.
+
+---
+
+## Theo's Food Trailer Menu
+
+**ASP.NET Core Menu & Ordering Application**
+
+Theo's Food Trailer Menu is a full-stack application demonstrating communication between a JavaScript frontend, an **ASP.NET Core Minimal API**, and a separate .NET console client.
+
+The application demonstrates REST API development, CRUD operations, asynchronous programming, dynamic frontend rendering, and automated integration testing.
+
+### Highlights
+
+- ASP.NET Core Minimal API
+- Full CRUD operations
+- RESTful endpoints
+- Console application using `HttpClient`
+- Asynchronous programming with `async` and `await`
+- JavaScript Fetch API
+- Dynamic menu rendering
+- Category filtering
+- Responsive frontend
+- xUnit integration testing
+- `WebApplicationFactory`
+
+### Architecture
+
+JavaScript → Fetch API → ASP.NET Core API → JSON → Dynamic UI
+
+The project also includes a separate console client that communicates with the API using `HttpClient`.
+
+**Skills demonstrated:**
+
+`C#` `.NET` `ASP.NET Core` `Minimal APIs` `REST APIs` `CRUD` `HttpClient` `JavaScript` `Fetch API` `JSON` `Async/Await` `xUnit` `WebApplicationFactory`
+
+[View Theo's Food Trailer Menu](https://github.com/tabner0320/food-trailer-menu)
 
 ---
 
@@ -87,9 +142,9 @@ The solution is organized into separate **Core, Console, Web, and Tests projects
 
 Earthly Kiss is a full-stack application built with **C#, .NET 10, ASP.NET Core, JavaScript, HTML, and CSS**.
 
-Users can search for natural remedies by symptom through a JavaScript front end connected to an **ASP.NET Core REST API**.
+Users can search for natural-remedy information by symptom through a JavaScript frontend connected to an **ASP.NET Core REST API**.
 
-The backend demonstrates **dependency injection, service-based architecture, models, endpoint mapping, JSON serialization, CORS, and automated testing**.
+The backend demonstrates dependency injection, service-based architecture, models, endpoint mapping, JSON serialization, CORS, and automated testing.
 
 **Skills demonstrated:**
 
@@ -101,24 +156,25 @@ The backend demonstrates **dependency injection, service-based architecture, mod
 
 ## Sweet Cups by Nae
 
-**Full-Stack Ordering Application**
+**Interactive Ordering Application**
 
-Sweet Cups by Nae is a full-stack ordering application built with **C#, ASP.NET Core, JavaScript, HTML, and CSS**.
+Sweet Cups by Nae is an interactive business ordering application built with **C#, ASP.NET Core, JavaScript, HTML, and CSS**.
 
-Customers can browse cheesecake cups, add products to an interactive cart, calculate their order total, enter pickup information, and submit orders through an ASP.NET Core backend.
+Customers can browse cheesecake cups, add products to an interactive cart, calculate order totals, and enter pickup information through a responsive web interface.
 
 ### Highlights
 
 - Interactive shopping cart
 - Dynamic order-total calculations
 - Customer pickup information
-- JavaScript front end
-- ASP.NET Core backend
+- JavaScript frontend
+- ASP.NET Core application
 - JSON-based data communication
+- Responsive web design
 
 **Skills demonstrated:**
 
-`C#` `ASP.NET Core` `JavaScript` `REST APIs` `JSON` `Fetch API` `HTML5` `CSS3` `Git`
+`C#` `ASP.NET Core` `JavaScript` `JSON` `Fetch API` `HTML5` `CSS3` `Responsive Web Design` `Git`
 
 [View Sweet Cups by Nae](https://github.com/tabner0320/SweetCupsByNae)
 
@@ -126,45 +182,87 @@ Customers can browse cheesecake cups, add products to an interactive cart, calcu
 
 ## Bryant's Son Home Improvement
 
-**Full-Stack Home Improvement & Estimate Application**
+**Home Improvement & Estimate Application**
 
-Bryant's Son Home Improvement is a full-stack application featuring service listings and a customer estimate-request system.
+Bryant's Son Home Improvement is a business-focused web application featuring home-improvement service listings and customer estimate-request functionality.
 
-Customers can select a service, complete an estimate form, and submit project information from the JavaScript front end to an **ASP.NET Core API**.
-
-The project also demonstrates CRUD operations and automated API testing.
+The project demonstrates responsive web development and ASP.NET Core application development for a practical small-business use case.
 
 **Skills demonstrated:**
 
-`C#` `ASP.NET Core` `JavaScript` `REST APIs` `CRUD` `xUnit` `Integration Testing` `HTML5` `CSS3`
+`C#` `ASP.NET Core` `JavaScript` `HTML5` `CSS3` `Responsive Web Design` `Git` `GitHub`
 
 [View Bryant's Son Home Improvement](https://github.com/tabner0320/BryantsSonHomeImprovement)
 
 ---
 
-## Theo's Food Trailer Menu
+## Pop's Coin Laundry
 
-**ASP.NET Core Menu & Ordering Application**
+**ASP.NET Core Small-Business Website**
 
-Theo's Food Trailer Menu demonstrates communication between .NET applications using **ASP.NET Core Minimal APIs and HttpClient**.
+Pop's Coin Laundry is a responsive small-business website built with **C#, ASP.NET Core, HTML, CSS, and JavaScript**.
 
-The project includes RESTful endpoints, full CRUD operations, asynchronous programming, a console API client, JavaScript functionality, and automated testing.
+The project demonstrates using ASP.NET Core to host a responsive frontend for a real-world business website.
 
 ### Highlights
 
-- ASP.NET Core Minimal API
-- Full CRUD operations
-- Console application using `HttpClient`
-- Asynchronous programming with `async` and `await`
-- JavaScript menu functionality
-- xUnit integration testing
-- `WebApplicationFactory`
+- Interactive splash screen
+- Responsive navigation
+- Services section
+- Pricing section
+- Business-hours section
+- Location and contact sections
+- Responsive card-based layout
+- ASP.NET Core static-file hosting
+- Mobile-friendly design
 
 **Skills demonstrated:**
 
-`C#` `.NET` `ASP.NET Core` `Minimal APIs` `HttpClient` `JavaScript` `xUnit` `REST APIs` `CRUD` `Async/Await`
+`C#` `ASP.NET Core` `HTML5` `CSS3` `JavaScript` `Responsive Web Design` `Git` `GitHub`
 
-[View Food Trailer Menu](https://github.com/tabner0320/food-trailer-menu)
+[View Pop's Coin Laundry](https://github.com/tabner0320/Pops-Coin-Laundry)
+
+---
+
+## SweetlyMade
+
+**C# & .NET Product and Order Management Application**
+
+SweetlyMade is a multi-project **C# and .NET application** for managing homemade products and customer orders.
+
+The project demonstrates object-oriented programming, reusable services, console development, ASP.NET Core web development, and automated testing.
+
+### Highlights
+
+- Multi-project .NET solution
+- Product and Order models
+- Reusable service classes
+- Interactive console ordering
+- ASP.NET Core web application
+- Input validation
+- Automatic order-total calculations
+- Automated testing with xUnit
+
+**Skills demonstrated:**
+
+`C#` `.NET 10` `ASP.NET Core` `OOP` `Razor Pages` `LINQ` `xUnit` `Unit Testing` `Git`
+
+[View SweetlyMade](https://github.com/tabner0320/SweetlyMade)
+
+---
+
+# Additional Projects
+
+My GitHub also contains projects and exercises demonstrating continued development in **C#, ASP.NET Core, APIs, object-oriented programming, GitHub, responsive web design, and software engineering**.
+
+### Other Projects
+
+- [ContosoPizza](https://github.com/tabner0320/ContosoPizza) — ASP.NET Core controllers, models, services, and web development
+- [WebApiLab](https://github.com/tabner0320/WebApiLab) — ASP.NET Core Web API and .NET console API client
+- [Console App Food Trailer Crew](https://github.com/tabner0320/Console-app-food-trailer-crew) — C# console application demonstrating classes, methods, arrays, calculations, and exception handling
+- [Class Library Projects](https://github.com/tabner0320/ClassLibraryProjects) — C# and .NET class-library development
+- [Banking Enums & Records](https://github.com/tabner0320/BankingEnumsRecords) — C# enums, records, and object-oriented programming
+- [GitHub Copilot Agent Mode](https://github.com/tabner0320/skills-build-applications-w-copilot-agent-mode) — application development using GitHub Copilot Agent Mode
 
 ---
 
@@ -181,6 +279,7 @@ I'm continuing to strengthen my skills in:
 - Cloud application development
 - Automated testing
 - Python
+- AI-assisted software development
 - AI and automation
 
 ---
