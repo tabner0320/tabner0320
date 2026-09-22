@@ -2,90 +2,108 @@
 
 ### Theophilus M. Abner Jr.
 
-Software Developer and IT Professional focused on building practical
-full-stack applications with **C#, .NET, ASP.NET Core, JavaScript,
-REST APIs, and cloud technologies**.
+**Software Developer | IT Professional | U.S. Army Veteran**
 
-I'm currently pursuing my **Computer Information Technology degree at
-Jefferson Community & Technical College (JCTC)** and have completed
-the **Code:You Web Development and Software Development pathways**.
+I build practical applications with **C#, .NET, ASP.NET Core, JavaScript, React, REST APIs, Python, and modern development tools**.
 
-I'm a retired **U.S. Army veteran**, former **Systems Engineer
-Apprentice**, and **Certified AI PMO Practitioner (CAPMO™)**.
+I'm currently pursuing a **Computer Information Technology degree at Jefferson Community & Technical College (JCTC)** and have completed the **Code:You Web Development and Software Development Pathways**.
+
+## Portfolio & Resume
+
+View my software development portfolio, featured projects, technical skills, and downloadable resume:
+
+**Portfolio:**  
+https://tabner0320.github.io/theo-abner-resume/
+
+**GitHub:**  
+https://github.com/tabner0320
 
 ---
 
-## What I'm Working With
+## What I'm Working On
 
-- C# and .NET
-- ASP.NET Core Minimal APIs
-- REST API development
-- JavaScript, HTML, and CSS
-- HttpClient and fetch()
-- JSON data persistence
-- LINQ and data analytics
-- xUnit and integration testing
-- Git and GitHub
-- Python and data analysis
-- Microsoft Azure and cloud technologies
+- Building full-stack applications with **C# and ASP.NET Core**
+- Designing and consuming **REST APIs**
+- Developing responsive front ends with **HTML, CSS, JavaScript, React, and Vite**
+- Working with **Entity Framework Core and SQLite**
+- Writing automated tests with **xUnit**
+- Exploring **data analysis with Python, pandas, and Matplotlib**
+- Using **GitHub Copilot and AI-assisted development workflows**
+- Expanding my knowledge of **Azure, cloud technologies, AI, and automation**
+
+---
+
+## Technical Skills
+
+**Languages:** C#, JavaScript, Python, HTML, CSS
+
+**Frameworks & Technologies:** .NET, ASP.NET Core, React, Vite, Node.js, Express.js, Entity Framework Core
+
+**APIs:** REST, JSON, ASP.NET Core Minimal APIs, HttpClient, Fetch API
+
+**Data:** SQLite, pandas
+
+**Testing:** xUnit, WebApplicationFactory
+
+**Tools:** Git, GitHub, GitHub Copilot, VS Code, Git Bash, npm, .NET CLI
+
+**Concepts:** Object-Oriented Programming, CRUD, async/await, API integration, automated testing, algorithms and data structures
 
 ---
 
 ## Featured Projects
 
-### Sweet Cups by Nae
+### Valor Vault
 
-Full-stack C#/.NET dessert ordering and analytics application.
+Full-stack veteran resource hub built with **React, Vite, ASP.NET Core, Entity Framework Core, and SQLite**.
 
-**Highlights:**
-- ASP.NET Core Minimal API
-- Dynamic JavaScript storefront
-- Shopping cart and customer ordering
-- Persistent JSON order storage
-- LINQ-powered sales analytics dashboard
-- C# Console API client using HttpClient
-- xUnit integration testing with WebApplicationFactory
-- Responsive web design
-
-[View Sweet Cups by Nae](https://github.com/tabner0320/SweetCupsByNae)
-
----
+[View Repository](https://github.com/tabner0320/VeteranResourceHub)
 
 ### Theo's Food Trailer Menu
 
-Full-stack food trailer ordering and analytics application built with
-C#, ASP.NET Core, JavaScript, and automated testing.
+Full-stack application featuring an **ASP.NET Core Minimal API**, JavaScript frontend, RESTful CRUD operations, HttpClient console client, and xUnit integration testing.
 
-**Highlights:**
-- RESTful ASP.NET Core Minimal API
-- Full CRUD operations
-- JavaScript frontend using fetch()
-- Persistent order storage
-- LINQ sales analytics
-- C# Console client using HttpClient
-- xUnit/WebApplicationFactory testing
-- Responsive menu and ordering interface
+[View Repository](https://github.com/tabner0320/food-trailer-menu)
 
-[View Theo's Food Trailer Menu](https://github.com/tabner0320/food-trailer-menu)
+### Raspberry Pi API
+
+**Node.js and Express REST API** demonstrating routes, controllers, services, JSON responses, and simulated GPIO device control.
+
+[View Repository](https://github.com/tabner0320/raspberry-pi-api)
+
+### SweetlyMade
+
+Multi-project **C#/.NET solution** containing a console application, ASP.NET Core Razor Pages application, services, and automated tests.
+
+[View Repository](https://github.com/tabner0320/SweetlyMade)
+
+### Wine Reviews Data Analysis
+
+**Python, pandas, and Matplotlib** project that cleans, aggregates, analyzes, and visualizes wine-review data.
+
+[View Repository](https://github.com/tabner0320/wine-reviews-data-analysis)
 
 ---
 
-## Development Focus
+## Education & Professional Development
+
+- **Computer Information Technology** — Jefferson Community & Technical College
+- **Code:You Web Development Pathway** — Completed
+- **Code:You Software Development Pathway (C#/.NET)** — Completed
+- **Certified AI PMO Practitioner (CAPMO™)** — KEP Training
+
+---
+
+## Current Focus
 
 I'm continuing to strengthen my skills in:
 
-- Software engineering with C# and .NET
-- Data structures and algorithms
-- API architecture
-- Automated and integration testing
-- Python and data analysis
-- Cloud development with Microsoft Azure
-- AI and automation
-
----
-
-## Connect With Me
-
-I'm interested in connecting with developers, technology teams,
-and organizations working in software engineering, cloud technology,
-AI, automation, and innovative technology solutions.
+- C# and .NET
+- ASP.NET Core
+- React
+- REST API development
+- Microsoft Azure
+- Cloud technologies
+- AI-assisted development
+- Automation
+- Data analysis
