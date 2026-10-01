@@ -66,6 +66,12 @@ Full-stack application featuring an **ASP.NET Core Minimal API**, JavaScript fro
 
 [View Repository](https://github.com/tabner0320/food-trailer-menu)
 
+### Food Trailer Crew JSON App
+
+C#/.NET console application for managing food trailer crew members using full **CRUD functionality**, a service-based architecture, **System.Text.Json** for persistent JSON storage, **LINQ** for searching and filtering, and **xUnit** automated testing.
+
+[View Repository](https://github.com/tabner0320/FoodTrailerJsonApp)
+
 ### SweetlyMade
 
 Multi-project **C#/.NET solution** containing a console application, ASP.NET Core Razor Pages application, service classes, product and order workflows, and automated tests.
