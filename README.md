@@ -1,123 +1,201 @@
-# Hi, I'm Theo
+# Hi, I'm Theo 
 
 ### Theophilus M. Abner Jr.
 
 **Software Developer | IT Professional | U.S. Army Veteran**
 
-I build practical, user-focused applications with **C#, .NET, ASP.NET Core, JavaScript, React, REST APIs, Python, and modern development tools**.
+I develop practical, user-focused applications using **C#, .NET, ASP.NET Core, JavaScript, React, Python, and REST APIs**.
 
 I'm currently pursuing a **Computer Information Technology degree at Jefferson Community & Technical College (JCTC)** and have completed the **Code:You Web Development and Software Development Pathways**.
 
-My background combines **software development, technical problem-solving, leadership, documentation, and process improvement**. I'm continuing to strengthen my skills in full-stack development, cloud technologies, automated testing, Continuous Integration, AI-assisted development, and automation.
+My background combines software development, technical problem-solving, leadership, documentation, and process improvement. I'm continuing to build experience in full-stack development, automated testing, cloud technologies, and AI-assisted development.
 
 ---
 
 ## Portfolio & Resume
 
-Explore my software development portfolio, featured projects, technical skills, and downloadable resume:
+### [ Explore My Live Software Development Portfolio](https://tabner0320.github.io/theo-abner-resume/)
 
-- **Portfolio:** [tabner0320.github.io/theo-abner-resume](https://tabner0320.github.io/theo-abner-resume/)
-- **GitHub:** [github.com/tabner0320](https://github.com/tabner0320)
+My portfolio showcases six featured projects covering full-stack applications, REST APIs, responsive web design, and Python data analysis.
+
+- **Live Portfolio:** https://tabner0320.github.io/theo-abner-resume/
+- **GitHub Profile:** https://github.com/tabner0320
 
 ---
 
 ## Technical Skills
 
-**Languages:** C#, JavaScript, Python, HTML5, CSS3
+**Programming Languages:** C#, JavaScript, Python, HTML5, CSS3
 
-**Frameworks & Technologies:** .NET, ASP.NET Core, React, Vite, Node.js, Express.js, Entity Framework Core, Razor Pages
+**Frameworks & Technologies:** .NET 10, ASP.NET Core, React, Vite, Node.js, Express.js, Entity Framework Core, Razor Pages
 
 **APIs & Integration:** REST APIs, JSON, ASP.NET Core Minimal APIs, HttpClient, Fetch API
 
-**Data:** SQLite, JSON, pandas
+**Data & Analytics:** SQLite, pandas, Matplotlib, JSON
 
-**Testing:** xUnit, WebApplicationFactory, unit testing, integration testing
+**Testing:** xUnit, WebApplicationFactory, Unit Testing, Integration Testing
 
-**DevOps & CI:** GitHub Actions, Continuous Integration, Git feature branches, pull requests
+**DevOps & Version Control:** Git, GitHub, GitHub Actions, Continuous Integration, Feature Branches, Pull Requests
 
-**Tools:** Git, GitHub, GitHub Copilot, VS Code, Git Bash, npm, .NET CLI
+**Development Tools:** VS Code, GitHub Copilot, Git Bash, npm, .NET CLI
 
-**Concepts:** Object-Oriented Programming, CRUD, async/await, LINQ, API integration, service-based architecture, automated testing, algorithms and data structures
+**Software Engineering Concepts:** Object-Oriented Programming, CRUD, LINQ, async/await, Service-Based Architecture, API Integration, Algorithms and Data Structures
 
 ---
 
-## Featured Projects
+## Featured Software Development Projects
 
 ### C# Banking Account Management System
 
-C#/.NET 10 console application demonstrating **object-oriented programming and financial business logic** through Checking, Savings, and Money Market accounts.
+A **C#/.NET 10 console application** demonstrating object-oriented programming, interfaces, and financial business logic.
 
-Implements deposits, withdrawals, transfers, interest calculations, overdraft fees, transaction tracking, JSON/file handling, and account-specific rules. Includes **xUnit automated testing** and a **GitHub Actions Continuous Integration workflow** that automatically builds and tests changes.
+**Key Features:**
+- Checking, Savings, and Money Market accounts
+- Deposits, withdrawals, and transfers
+- Interest calculations and overdraft fees
+- Account-specific business rules
+- Automated testing with xUnit
+- GitHub Actions Continuous Integration
 
-[View Repository](https://github.com/tabner0320/Classes_M1)
+**Technologies:** C#, .NET 10, OOP, Interfaces, xUnit, GitHub Actions
 
-### Valor Vault
+[View GitHub Repository](https://github.com/tabner0320/Classes_M1)
 
-Full-stack veteran resource hub built with **React, Vite, ASP.NET Core, Entity Framework Core, and SQLite**. The project is designed to organize and present veteran-focused resources through a modern frontend backed by a .NET API and relational data layer.
+### Valor Vault — Veteran Resource Hub
 
-[View Repository](https://github.com/tabner0320/VeteranResourceHub)
+A full-stack application designed to organize and present resources for veterans and their families.
+
+**Key Features:**
+- React and Vite frontend
+- ASP.NET Core backend
+- REST API architecture
+- Entity Framework Core
+- SQLite database integration
+- Responsive interface
+
+**Technologies:** React, JavaScript, C#, ASP.NET Core, EF Core, SQLite
+
+[View GitHub Repository](https://github.com/tabner0320/VeteranResourceHub)
 
 ### Theo's Food Trailer Menu
 
-Full-stack application featuring an **ASP.NET Core Minimal API**, JavaScript frontend, RESTful CRUD operations, a console client using **HttpClient**, and automated testing with **xUnit** and **WebApplicationFactory**.
+A full-stack menu management application demonstrating frontend-to-backend communication.
 
-[View Repository](https://github.com/tabner0320/food-trailer-menu)
+**Key Features:**
+- ASP.NET Core Minimal API
+- RESTful CRUD operations
+- Dynamic JavaScript menu
+- Category filtering and search
+- Console API client using HttpClient
+- xUnit integration testing with WebApplicationFactory
+
+**Technologies:** C#, .NET 10, ASP.NET Core, JavaScript, REST APIs, xUnit
+
+[View GitHub Repository](https://github.com/tabner0320/food-trailer-menu)
 
 ### Food Trailer Crew Console App
 
-C#/.NET 10 console application demonstrating **object-oriented programming, payroll business logic, overtime calculations, shift classification, input validation, and separation of concerns**.
+A C#/.NET 10 application demonstrating object-oriented design and payroll business logic.
 
-Includes a dedicated **xUnit test project** and **GitHub Actions Continuous Integration** for automated build and test validation.
+**Key Features:**
+- Employee and crew management
+- Weekly payroll calculations
+- Overtime calculations
+- Shift classifications
+- Input validation
+- Automated xUnit tests
+- GitHub Actions CI workflow
 
-[View Repository](https://github.com/tabner0320/Console-app-food-trailer-crew)
+**Technologies:** C#, .NET 10, OOP, xUnit, GitHub Actions
+
+[View GitHub Repository](https://github.com/tabner0320/Console-app-food-trailer-crew)
 
 ### Food Trailer Crew JSON App
 
-C#/.NET console application for managing food trailer crew members using full **CRUD functionality**, a service-based architecture, **System.Text.Json** for persistent JSON storage, **LINQ** for searching and filtering, and **xUnit** automated testing.
+A C# console application for managing employee information with persistent JSON storage.
 
-[View Repository](https://github.com/tabner0320/FoodTrailerJsonApp)
+**Key Features:**
+- Full CRUD operations
+- JSON data persistence
+- Service-based architecture
+- LINQ searching and filtering
+- Automated xUnit tests
+
+**Technologies:** C#, .NET, System.Text.Json, LINQ, xUnit
+
+[View GitHub Repository](https://github.com/tabner0320/FoodTrailerJsonApp)
 
 ### SweetlyMade
 
-Multi-project **C#/.NET solution** containing a console application, ASP.NET Core Razor Pages application, service classes, product and order workflows, and automated tests.
+A multi-project C#/.NET solution demonstrating console development, Razor Pages, and application service design.
 
-[View Repository](https://github.com/tabner0320/SweetlyMade)
+**Key Features:**
+- Console application
+- ASP.NET Core Razor Pages website
+- Product and order workflows
+- Service classes
+- Automated testing
+
+**Technologies:** C#, .NET 10, ASP.NET Core, Razor Pages, xUnit
+
+[View GitHub Repository](https://github.com/tabner0320/SweetlyMade)
 
 ### Wine Reviews Data Analysis
 
-**Python, pandas, and Matplotlib** project that cleans, aggregates, analyzes, and visualizes wine-review data to identify patterns in review volume and average ratings by country.
+A Python data-analysis project that examines wine-review datasets to identify patterns across countries.
 
-[View Repository](https://github.com/tabner0320/wine-reviews-data-analysis)
+**Key Features:**
+- Data processing with pandas
+- Country-level aggregation
+- Review counts and average ratings
+- Data visualization with Matplotlib
+- Bar charts illustrating review distribution
+
+**Technologies:** Python, pandas, Matplotlib, Data Analysis
+
+[View GitHub Repository](https://github.com/tabner0320/wine-reviews-data-analysis)
 
 ---
 
-## What I'm Working On
+## What I'm Currently Working On
 
-- Building full-stack applications with **C#, .NET, ASP.NET Core, React, and JavaScript**
-- Designing and consuming **REST APIs**
-- Applying **object-oriented programming and service-based architecture**
-- Working with **Entity Framework Core, SQLite, JSON, and LINQ**
-- Writing automated tests with **xUnit and WebApplicationFactory**
-- Using **GitHub Actions for Continuous Integration**
-- Managing development through **Git feature branches and pull requests**
-- Building data-analysis projects with **Python, pandas, and Matplotlib**
-- Using **GitHub Copilot and AI-assisted development workflows**
-- Expanding my knowledge of **Microsoft Azure, cloud technologies, automation, and DevOps**
+- Developing full-stack applications with **C#, ASP.NET Core, React, and JavaScript**
+- Building and consuming **REST APIs**
+- Improving application architecture through **OOP and separation of concerns**
+- Writing automated tests with **xUnit**
+- Implementing **GitHub Actions Continuous Integration**
+- Applying **Python, pandas, and Matplotlib** to data-analysis projects
+- Exploring **Microsoft Azure, cloud technologies, and DevOps**
+- Using **GitHub Copilot and AI-assisted development tools**
 
 ---
 
 ## Education & Professional Development
 
-- **Computer Information Technology** — Jefferson Community & Technical College
-- **Code:You Web Development Pathway** — Completed
-- **Code:You Software Development Pathway (C#/.NET)** — Completed
-- **Certified AI PMO Practitioner (CAPMO™)** — KEP Training
-- Continued hands-on learning through **Microsoft Learn, GitHub, GitHub Copilot, cloud technologies, and project-based development**
+**Jefferson Community & Technical College**
+- Computer Information Technology — Degree in progress
+
+**Code:You**
+- Web Development Pathway — Completed
+- Software Development Pathway (C#/.NET) — Completed
+
+**Professional Certification**
+- Certified AI PMO Practitioner (CAPMO™) — KEP Training
+
+**Continuing Education**
+- Microsoft Learn
+- GitHub Copilot
+- Cloud Technologies
+- Software Development and Automated Testing
 
 ---
 
 ## Let's Connect
 
-I'm interested in opportunities where I can contribute to **software development, IT, cloud, automation, API development, and technical problem-solving** while continuing to grow as a developer.
+I'm interested in opportunities involving **Software Development, C#/.NET Engineering, IT, API Development, Cloud Technologies, and Automation**.
 
-Explore my repositories here on GitHub or visit my portfolio for a broader view of my projects, technical skills, and experience.
+My background as a retired U.S. Army veteran brings leadership, instruction, documentation, troubleshooting, and teamwork experience to technical environments.
+
+**[ View My Portfolio](https://tabner0320.github.io/theo-abner-resume/)**
+
+**[ Explore My GitHub Repositories](https://github.com/tabner0320)**
