@@ -286,6 +286,26 @@ A multi-project solution demonstrating console development, ASP.NET Core Razor P
 
 ---
 
+### 9. Microsoft Learn — GitHub Copilot xUnit Testing
+
+**C#/.NET 9 Automated Testing Lab**
+
+Completed the Microsoft Learn *Develop unit tests using GitHub Copilot* exercise, extending an existing library application with tests for JSON repository behavior.
+
+**Key Features:**
+- Added xUnit tests for successful and unsuccessful loan lookups
+- Used the Arrange–Act–Assert testing pattern
+- Configured references to the infrastructure project and JSON test data
+- Worked with GitHub Copilot Ask and Agent modes
+- Verified **19 passing tests, 0 failures**
+- Created a Git feature branch, opened a pull request, and merged the changes into my own fork
+
+**Technologies:** C#, .NET 9, xUnit, NSubstitute, GitHub Copilot, Git, GitHub
+
+[View GitHub Repository](https://github.com/tabner0320/mslearn-github-copilot-dev) | [View Merged Pull Request](https://github.com/tabner0320/mslearn-github-copilot-dev/pull/1)
+
+---
+
 ## What I'm Currently Working On
 
 - Building full-stack applications using **C#, .NET, ASP.NET Core, React, and JavaScript**
