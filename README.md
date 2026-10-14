@@ -243,7 +243,27 @@ A Python project that analyzes wine review datasets to identify trends and compa
 
 ---
 
-### 7. C# Banking Account Management System
+### 7. Fruit Sales Data Analysis
+
+**Python Data Analysis, Visualization & Automated Testing Project**
+
+Expanded a basic CSV exercise into a Python data-analysis project comparing apple and banana sales across 2017 and 2018.
+
+**Key Features:**
+- Reusable pandas functions for yearly and fruit-level sales totals
+- Percentage-growth calculations for apples and bananas
+- Two saved Matplotlib charts: sales comparison and growth
+- CSV data export and documented analysis results
+- Automated pytest tests (**3 passed, 0 failed**)
+- Development through a feature branch and merged GitHub pull request
+
+**Technologies:** Python, pandas, Matplotlib, pytest, CSV, Git, GitHub
+
+[View GitHub Repository](https://github.com/tabner0320/fruit.csv) | [View Merged Pull Request](https://github.com/tabner0320/fruit.csv/pull/1)
+
+---
+
+### 8. C# Banking Account Management System
 
 **Object-Oriented Banking Console Application**
 
@@ -266,7 +286,7 @@ A C#/.NET 10 application demonstrating object-oriented design, interfaces, and f
 
 ---
 
-### 8. SweetlyMade
+### 9. SweetlyMade
 
 **C#/.NET Console & Razor Pages Application**
 
@@ -286,7 +306,7 @@ A multi-project solution demonstrating console development, ASP.NET Core Razor P
 
 ---
 
-### 9. Microsoft Learn — GitHub Copilot xUnit Testing
+### 10. Microsoft Learn — GitHub Copilot xUnit Testing
 
 **C#/.NET 9 Automated Testing Lab**
 
