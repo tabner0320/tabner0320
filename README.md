@@ -254,12 +254,13 @@ Expanded a basic CSV exercise into a Python data-analysis project comparing appl
 - Percentage-growth calculations for apples and bananas
 - Two saved Matplotlib charts: sales comparison and growth
 - CSV data export and documented analysis results
-- Automated pytest tests (**3 passed, 0 failed**)
-- Development through a feature branch and merged GitHub pull request
+- Automated pytest tests covering standard calculations, empty datasets, and declining sales (**5 passed, 0 failed**)
+- GitHub Actions continuous integration for automated Python 3.13 testing
+- Development through feature branches and merged GitHub pull requests
 
-**Technologies:** Python, pandas, Matplotlib, pytest, CSV, Git, GitHub
+**Technologies:** Python, pandas, Matplotlib, pytest, CSV, Git, GitHub, GitHub Actions
 
-[View GitHub Repository](https://github.com/tabner0320/fruit.csv) | [View Merged Pull Request](https://github.com/tabner0320/fruit.csv/pull/1)
+[View GitHub Repository](https://github.com/tabner0320/fruit.csv) | [View GitHub Actions](https://github.com/tabner0320/fruit.csv/actions/workflows/python-tests.yml) | [View Edge-Case Tests PR](https://github.com/tabner0320/fruit.csv/pull/3)
 
 ---
 
